@@ -4,3 +4,4 @@ test
 test
 /ntest/n
 /ntest/n
+\ntest\n
